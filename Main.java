@@ -11,7 +11,7 @@ public class Main {
 //          System.out.println(scanner.next());
         
       } catch(Exception e){
-        System.out.println("An error was found");
+        System.out.println("An error was found ");
       }
       
     }
